@@ -47,6 +47,6 @@ mintNFT("Cole","Brown","Sweater","Silver Rings");
 mintNFT("Ja","Blue","Longsleeves","Gold Chains");
 mintNFT("Kei","Burgundy","Shirt","Silver Bracelet");
 mintNFT("Zack","Silver","Hoodie","Diamond Rings");
-mintNFT("Dy","Green","Warmer","Diamond Watch");
+mintNFT("Dean","Purple","Sleveless","Diamond Necklace");
 listNFTs();
 getTotalSupply();
