@@ -27,8 +27,6 @@ Any advise for common problems or issues.
 
 ## Authors
 
-Contributors names and contact info
-
 Ghasutt Joshua   
 https://github.com/ttus20
 
